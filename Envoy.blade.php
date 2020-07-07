@@ -4,7 +4,7 @@
   $timezone = 'Europe/Moscow';
   $path = '/var/www/telegrambot';
   $current = $path . '/current';
-  $repo = 'git@github.com:MaMiPro/Telegrambot.git';
+  $repo = 'git@github.com:MaMiPro/advKrasavina.git';
   $branch = 'master';
   $chmods = [
     'storage/logs'
