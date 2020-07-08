@@ -88,11 +88,13 @@
 									<a href="https://viber.click/79115759336?text=Мне%20нужна%20юридическая%20помощь" target="_blank" rel="nofollow"><img src="img/v.png" class="icon" alt="viber"></a>
 
 									</li>
+									<li>
 									<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
 										<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
 										<!--<div class="learnmore2">
 											<a href="#" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
 										</div>-->
+										</li>
 									</div>
 								</ul>
              	</nav>
