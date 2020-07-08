@@ -83,18 +83,17 @@
 										</ul>
 									</li>
 									<li>
-									<a href="https://tlgg.ru/advkrasavina" target="_blank" rel="nofollow"><img src="img/t.png" class="icon" alt="telegram"></a>
-									<a href=" https://wa.me/79115759336?text=Мне%20нужна%20юридическая%20помощь" target="_blank" rel="nofollow"><img src="img/w.png" class="icon" alt="whatsup"></a>
-									<a href="https://viber.click/79115759336?text=Мне%20нужна%20юридическая%20помощь" target="_blank" rel="nofollow"><img src="img/v.png" class="icon" alt="viber"></a>
-
+										<a onclick="return false">Контакты <i class="fas fa-angle-down"></i>
+										</a>
+										<ul class="dropdown">
+											<li>
+								     	<a href="https://tlgg.ru/advkrasavina" target="_blank" rel="nofollow"><img src="img/t.png" class="icon" alt="telegram"><b> Telegram </b></a><br>
+								    	<a href=" https://wa.me/79115759336?text=Здравствуйте!%20Мне%20нужна%20юридическая%20помощь%20по%20вопросу" target="_blank" rel="nofollow"><img src="img/w.png" class="icon" alt="whatsup">WhatsApp</a><br>
+								    	<a href="https://viber.click/79115759336?text=Мне%20нужна%20юридическая%20помощь" target="_blank" rel="nofollow"><img src="img/v.png" class="icon" alt="viber">Viber</a><br>
+										  </li>
+									<li>	<a href="tel:+79115759336" class="phone"><b>Телефон для связи: <br></b>+7 (911)575-93-36</a> </li>
+									   </ul>
 									</li>
-									<li>
-									<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
-										<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
-										<!--<div class="learnmore2">
-											<a href="#" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
-										</div>-->
-										</li>
 									</div>
 								</ul>
              	</nav>
@@ -128,7 +127,8 @@
 								<p data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200"> Адвокат должен страртья работать на результат, <br>
 									а не на колличество оплачеваемых часов! <br> Уметь правильно строить отношения, не только со своим клинетом,<br> но и с другими людьми, которые имеют отношения к <br>судебному процессу - со следователем, прокурором и т.д.</p>
 
-
+									<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
+										<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
 								<div class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
 										<input  type="checkbox" id="callback">
                      <label class="skill-btn" for="callback"> Заказать Консультацию </label>
