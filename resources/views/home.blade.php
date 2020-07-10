@@ -123,7 +123,7 @@
 						<div class="col-xl-12 col-lg-12 col-md-12">
 							<!--header text-->
 							<div class="intro-text">
-								<h1 data-aos="slide-right" data-aos-anchor-placement="top-bottom" data-aos-delay="700" data-aos-duration="1200"> <br> <br> Каким должен быть <br> Адвокат? <br> </h1>
+								<h1 data-aos="slide-right" data-aos-anchor-placement="top-bottom" data-aos-delay="700" data-aos-duration="1200"> <br> <br> Я заинтересована в вашем <br> успехе! <br> </h1>
 								<p data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200"> Адвокат должен страртья работать на результат, <br>
 									а не на колличество оплачеваемых часов! <br> Уметь правильно строить отношения, не только со своим клинетом,<br> но и с другими людьми, которые имеют отношения к <br>судебному процессу - со следователем, прокурором и т.д.</p>
 
@@ -167,6 +167,8 @@
 			</div>
 		</div>
 	</section>
+
+
 <!--мои услуги-->
 
 	<!-- =========About Us Area=========== -->
@@ -190,49 +192,6 @@
 							<div class="e-pattern">
 								<img src="img/expertise/e-pattern.png" alt="">
 							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- =========Client Area=========== -->
-		<div class="client-area">
-			<div class="container">
-				<div class="row d-flex align-items-center">
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/1.png" alt="">
-						</div>
-					</div>
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/2.png" alt="">
-						</div>
-					</div>
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/3.png" alt="">
-						</div>
-					</div>
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/4.png" alt="">
-						</div>
-					</div>
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/5.png" alt="">
-						</div>
-					</div>
-					<!--single clients logo-->
-					<div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6">
-						<div class="single-client-img">
-							<img src="img/client/6.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -409,7 +368,7 @@
 							<p>Адвокат должен страртья работать на результат,
 								а не на колличество оплачеваемых часов! Уметь правильно строить отношения, не только со своим клинетом, но и с другими людьми, которые имеют отношенияк судебному процессу - со следователем, прокурором и т.д.</p>
 							<div class="section-button">
-								<a href="#">Request quote</a>
+								<a href="#">Стать моим клиентом</a>
 							</div>
 							<div class="e-pattern">
 								<img src="img/expertise/e-pattern.png" alt="">
@@ -504,15 +463,27 @@
 
 	<div class="callto-action">
 		<div class="container">
-			<div class="row">
-				<div class="col-xl-8 col-lg-8 col-md-8 col-sm-7">
-					<div class="callto-action-text">
-						<h5>Like what you see? <span>Let’s work</span> </h5>
-					</div>
-				</div>
-				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-5">
-					<div class="callto-action-btn">
-						<a href="#">Контакты</a>
+			<div class="col-xl-12 col-lg-12 col-md-12">
+				<!--header text-->
+				<div class="intro-text">
+					<h1>  Я заинтересована в вашем успехе! </h1>
+						<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
+							<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
+					<div class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
+							<input  type="checkbox" id="callback">
+							 <label class="skill-btn" for="callback"> Заказать Консультацию </label>
+
+								 <form action="telegram.php" class="popup" method="POST">
+									 <span align="center">Введите ваши данные</span>
+									 <input type="text" placeholder="Ваше Имя" name="user_name" required>
+									 <input type="text" placeholder="8 999 999 99 99" name="user_phone" required>
+									 <input class="submit" type="submit">
+									<label class="close" for="callback">+</label>
+								</form>
+						</div>
+						<!--<div class="learnmore2">
+							<a href="#" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -583,7 +554,7 @@
 		</div>
 		<!--copyright-->
 		<footer>
-			<p>All rights reserved @ enventer 2019</p>
+			<p>Все права защищены @ 2020</p>
 		</footer>
 	</section>
 	<!-- Jquery JS -->
