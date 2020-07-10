@@ -174,7 +174,7 @@
 	<!-- =========About Us Area=========== -->
 	<section>
 		<div class="home-about-area">
-			<div class="container">
+			<div class="container2">
 				<div class="row">
 					<!--about image-->
 					<div class="col-xl-5 col-lg-5 col-md-5">
@@ -201,7 +201,7 @@
 	<section>
 		<div id="pr" class="pricing-plan-area">
 			<div class="container">
-				<div class="row">
+				<div class="row2color">
 					<!-- price heading text-->
 					<div class="col-xl-12">
 						<div class="section-heading-3">
