@@ -145,6 +145,10 @@ body {
     margin-right: 0px;
     margin-left: 0px;
     background: linear-gradient(45deg, #f8a261, #6e9fc9), linear-gradient(135deg, #08526b, #fbcd7c);
+		border-radius: 20px;
+    width: 100%;
+		margin-bottom: 30px;
+		box-shadow: 0px 0.1px 5px #08526b;
 }
 
 ::selection {
@@ -322,7 +326,7 @@ height: 100%;
 }
 
 .section-heading-3 {
-	padding-bottom: 45px;
+	padding: 15px;
 	text-align: center
 }
 
@@ -354,7 +358,7 @@ height: 100%;
 /*1.3 Section Button*/
 .section-button a {
 	background: linear-gradient(45deg, #f8a261, #6e9fc9), linear-gradient(135deg, #08526b, #fbcd7c);
-	box-shadow: 0px 2px 15px rgba(164, 164, 164, 0.25);
+	box-shadow: 0px 0.1px 5px #08526b;
 	border-radius: 68px;
 	color: #fff;
 	padding: 10px 30px;
@@ -728,7 +732,7 @@ ul.dropdown li a:after {
 
 /*======= 3. Header Area CSS =========*/
 .header-content-area {
-	height: 99vh;
+	height: 100vh;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-image: linear-gradient(100deg, #f8a261, #6e9fc9), url('img/header.png');
@@ -871,8 +875,8 @@ ul.dropdown li a:after {
 
 .learnmore .skill-btn {
 	background: #323657;
-	-webkit-box-shadow: 0px 1px 26px rgba(41, 147, 34, 0.62);
-	box-shadow: 0px 1px 26px #323657;
+	-webkit-box-shadow: 0px 1px 10px rgba(41, 147, 34, 0.62);
+	box-shadow: 0px 1px 10px #323657;
 	border-radius: 50px;
 	text-decoration: none;
 	color: #fff;
@@ -1380,9 +1384,9 @@ ul.dropdown li a:after {
 /*========= 10. Pricing Area CSS =========*/
 .pricing-plan-area {
 	background-image: url('img/header.png');
-
 	padding: 12px 0;
 	background-color: #fff
+	margin-bottom: 15px
 }
 
 /*10.1 Single Price*/
@@ -1392,23 +1396,24 @@ ul.dropdown li a:after {
 	border-radius: 20px;
 	position: relative;
 	transition: .6s;
+	box-shadow: 0px 1px 10px #323657;
 }
 
 .single-price.active-s {
 	background: #FFFFFF;
-	box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.09);
+
 	border-radius: 20px;
 	transform: translateY(-10px)
 }
 
 .single-price:hover {
 	background-color: #fff;
-	box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.09);
+	box-shadow: 1px 4px 25px #173D7A;
 }
 
 .single-price:hover .package h3 {
 	background: linear-gradient(45deg, #f8a261, #6e9fc9);
-	margin: 20px;
+
 }
 
 .single-price:hover .price-button a {
@@ -1424,14 +1429,14 @@ ul.dropdown li a:after {
 	font-weight: 700;
 	font-size: 32px;
 	transition: .2s;
-	margin: 20px;
+	margin-top: 12px;
 }
 
 .package.active-h h3 {
 	background: linear-gradient(45deg, #f8a261, #6e9fc9);
 	color: #fff;
 	padding: 35px 0;
-	margin: 20px;
+
 }
 
 .price-qoute {
@@ -1468,11 +1473,12 @@ ul.dropdown li a:after {
 /*10.2 Single Price Button*/
 .price-button {
 	text-align: center
+
 }
 
 .price-button a {
 	background: #FFFFFF;
-	box-shadow: 0px 2px 15px rgba(214, 214, 214, 0.25);
+	box-shadow: 0.1px 0.1px 5px #173D7A;
 	border-radius: 68px;
 	color: #173D7A;
 	text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
@@ -1480,11 +1486,14 @@ ul.dropdown li a:after {
 	display: inline-block;
 	margin: 30px 0;
 	font-weight: 700;
+	;
+
 }
 
 .price-button.active-b a {
 	background: linear-gradient(45deg, #f8a261, #6e9fc9);
 	color: #fff;
+	box-shadow: 1px 0.9px 5px #173D7A;
 }
 
 /*10.3 Price Pattern Animation*/
@@ -1493,6 +1502,7 @@ ul.dropdown li a:after {
 	right: 30px;
 	top: 130px;
 	transform: rotate(120deg);
+
 }
 
 .price-pattern img {
