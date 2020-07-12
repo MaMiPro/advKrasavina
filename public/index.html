@@ -204,7 +204,7 @@
 				<div class="row2color">
 					<!-- price heading text-->
 					<div class="col-xl-12">
-						<div class="section-heading-3">
+						<div class="section-heading-3 section-heading-1">
 							<h4>Мои Цены</h4>
 							<h3>Тарифный план на выбор</h3>
 						</div>
@@ -234,7 +234,7 @@
 								</ul>
 							</div>
 							<div class="price-button">
-								<a href="#">Закзать</a>
+								<a href="#"><b>Заказать</b></a>
 							</div>
 						</div>
 					</div>
@@ -261,7 +261,7 @@
 								</ul>
 							</div>
 							<div class="price-button active-b">
-								<a href="#">Заказать</a>
+								<a href="#"><b>Заказать</b></a>
 							</div>
 						</div>
 					</div>
@@ -288,7 +288,7 @@
 								</ul>
 							</div>
 							<div class="price-button">
-								<a href="#">Заказать</a>
+								<a href="#"><b>Заказать</b></a>
 							</div>
 						</div>
 					</div>
@@ -386,7 +386,7 @@
 				<div class="row">
 					<!-- testimonial heading text-->
 					<div class="col-xl-12">
-						<div class="section-heading-3">
+						<div class="section-heading-3 section-heading-1">
 							<h4>ОТЗЫВЫ</h4>
 							<h3>Что говорят люди</h3>
 						</div>
