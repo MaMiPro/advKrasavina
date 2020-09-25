@@ -40,7 +40,7 @@ html{
   text-transform: uppercase;
   font-family: arial;
   color: white;
-  font-size: 14px;
+  font-size: 17px;
   position: absolute;
   left: 50%;
   transform: translate(-50%);
@@ -55,6 +55,7 @@ html{
   height: 35px;
   padding: 5px;
   outline: none;
+  color: black;
 }
 
 .submit{

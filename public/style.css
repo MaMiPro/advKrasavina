@@ -127,7 +127,7 @@ Website: www.enventer.com
 html,
 body {
 	height: 90%;
-	font-family: 'Nunito', sans-serif;
+	font-family: Palatino Linotype;
 	margin: 0px;
 	padding: 0px;
 }
@@ -168,9 +168,9 @@ img {
 
 p {
 	margin: 0;
-	font-size: 18px;
+	font-size: 19px;
 	line-height: 28px;
-	color: #323657;
+
 }
 
 h1,
@@ -280,13 +280,13 @@ height: 100%;
 	content: '';
 	right: 0;
 	bottom: -15px;
-	background-color: #173D7A;
+	background-color: #323232;
 	height: 5px;
 	width: 70px;
 }
 
 .section-heading-1 p {
-	color: #173D7A
+
 }
 
 .section-heading-2 {
@@ -432,7 +432,7 @@ height: 100%;
 	color: #fff;
 	display: inline-block;
 	text-transform: capitalize;
-	font-size: 18px;
+	font-size: 25px;
 	line-height: 1;
 	position: relative;
 	font-weight: 700;
@@ -500,7 +500,7 @@ height: 100%;
 }
 
 .main-menu ul li a.current {
-	color: #323657;
+	color: #323232;
 }
 
 .main-menu ul li a:hover:before {
@@ -538,7 +538,7 @@ height: 100%;
 	position: absolute;
 	right: 0;
 	top: 130%;
-	width: 280px;
+	width: 310px;
 	background-color: #fff;
 	-webkit-box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.1);
 	box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.1);
@@ -850,17 +850,17 @@ ul.dropdown li a:after {
 }
 
 .intro-text h1 {
-	text-transform: capitalize;
-	font-size: 50px;
+
+	font-size: 65px;
 	line-height: 65px;
-	color: #3e3d3d;
+	color: #323232;
 	margin-bottom: 10px;
 	font-weight: 900;
 }
 
 /*3.4 Header Button */
 .learnmore {
-	margin-top: 25px;
+	margin: 20px;
 	position: relative;
 	display: inline-block
 }
@@ -1315,6 +1315,8 @@ ul.dropdown li a:after {
 	display: inline;
 	border-radius: 68% 68% 2% 68% / 35% 50% 0 38%;
 	animation: morph 2s ease-in-out infinite both alternate;
+	background-image: linear-gradient(100deg, #f8a261, #6e9fc9), url('img/client/01.jpg');
+	background-blend-mode: screen;
 }
 
 @keyframes morph {
@@ -1425,7 +1427,7 @@ ul.dropdown li a:after {
 	border-radius: 20px 20px 0px 0px;
 	text-align: center;
 	padding: 30px 0;
-	color: #173D7A;
+	color: #323232;
 	font-weight: 700;
 	font-size: 32px;
 	transition: .2s;
@@ -1444,8 +1446,8 @@ ul.dropdown li a:after {
 }
 
 .price-qoute h2 {
-	color: #173D7A;
-	font-size: 30px;
+	color: #323232;
+	font-size: 25px;
 	margin-top: 10px;
 	font-weight: 900
 }
@@ -1462,7 +1464,7 @@ ul.dropdown li a:after {
 .price-details ul li {
 	line-height: 40px;
 	color: #5c5e71;
-	font-size: 17px
+	font-size: 15px
 }
 
 .price-details ul i {
@@ -1486,6 +1488,7 @@ ul.dropdown li a:after {
 	display: inline-block;
 	margin: 30px 0;
 	font-weight: 700;
+	font-size: 1.3rem;
 	;
 
 }
@@ -1599,7 +1602,7 @@ ul.dropdown li a:after {
 
 .big-footer {
 	background-color: #151723;
-	padding: 120px 0;
+	padding: 20px 0;
 	background-image: url('img/./f-pattern.png');
 }
 
@@ -1648,15 +1651,18 @@ ul.dropdown li a:after {
 	font-size: 20px;
 	font-weight: 600;
 	text-transform: capitalize;
+	justify-content: space-between;
 	margin-top: 5px
 }
 
 .footer-content ul {
-	margin-top: 30px
+	margin-top: 30px;
+	justify-content: space-between
 }
 
 .footer-content.footer-cont-mar-40 ul {
-	margin-top: 0px
+	margin-top: 0px;
+	justify-content: space-between
 }
 
 .footer-content ul li a {
@@ -1664,14 +1670,17 @@ ul.dropdown li a:after {
 	font-size: 16px;
 	text-transform: capitalize;
 	line-height: 30px;
+	justify-content: space-between
 }
 
 .footer-content ul li a:hover {
-	color: #85FF7F
+	color: #323232;
+	justify-content: space-between
 }
 
 .footer-content form {
-	margin-top: 20px
+	margin-top: 20px;
+	justify-content: space-between
 }
 
 .footer-content form input#leadgenaration {
@@ -1684,7 +1693,8 @@ ul.dropdown li a:after {
 	-webkit-transition: .5s;
 	transition: .5s;
 	display: block;
-	width: 100%
+	width: 100%;
+	justify-content: space-between
 }
 
 .footer-content form input#subscribe {
@@ -1699,19 +1709,23 @@ ul.dropdown li a:after {
 	transition: all .5s;
 	font-size: 15px;
 	-webkit-transition: .5s;
-	transition: .5s
+	transition: .5s;
+	justify-content: space-between
 }
 
 .footer-content form input#subscribe:hover {
+	justify-content: space-between;
 	background: linear-gradient(45deg, #f8a261, #6e9fc9), linear-gradient(135deg, #08526b, #fbcd7c);
 }
 
 .footer-content form input#leadgenaration:focus {
+	justify-content: space-between;
 	padding: 15px 10px;
 }
 
 /*12.3 Copyright Text*/
 footer {
+	justify-content: space-between;
 	background-color: #090c21;
 	text-align: center;
 	padding: 20px 0;
@@ -3149,8 +3163,8 @@ footer p {
 .callto-action {
 	background-color: transparent;
 	background-image: linear-gradient(45deg, #f8a261, #6e9fc9), linear-gradient(135deg, #08526b, #fbcd7c);
-	color: #fff;
-	padding: 45px 0
+	
+	padding: 20px
 }
 
 .callto-action-text h5 {

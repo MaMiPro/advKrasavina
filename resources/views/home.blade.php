@@ -11,6 +11,7 @@
 	<meta name=author content="Enventer">
 	<link rel="icon" href="img/favicon.png" type="image/png">
 	<!-- Bootstrap CSS -->
+
 	<link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">	<!-- Fontawesome CSS -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
@@ -74,12 +75,13 @@
 										<a href="#pr" onclick="return false">Мои Услуги <i class="fas fa-angle-down"></i>
 										</a>
 										<ul class="dropdown">
-											<li><a href="#">Защита подсудимого в судебном заседании</a></li>
-											<li><a href="#">Защита обвиняемых/подозреваемых на стадии следствия</a></li>
-											<li><a href="#">Защита Прав Потерпевших</a></li>
-											<li><a href="#">Полная консультация по уголовному делу</a></li>
-											<li><a href="#">Условно досрочное освобождение</a></li>
-											<li><a href="#">Обжалование действий/бездействий сотрудников правоохранительных органов</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%BF%D0%BE%D0%B4%D1%81%D1%83%D0%B4%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B2%20%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%BC%20%D0%B7%D0%B0%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%22">Защита подсудимого в судебном заседании</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%BE%D0%B1%D0%B2%D0%B8%D0%BD%D1%8F%D0%B5%D0%BC%D1%8B%D1%85%2F%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D1%85%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%B8%20%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F%22">Защита обвиняемых/подозреваемых на стадии следствия</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%9F%D1%80%D0%B0%D0%B2%20%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D0%BF%D0%B5%D0%B2%D1%88%D0%B8%D1%85%22">
+												Защита Прав Потерпевших</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%BC%D1%83%20%D0%B4%D0%B5%D0%BB%D1%83%22">Полная консультация по уголовному делу</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%22">Условно досрочное освобождение</a></li>
+											<li><a href="https://api.whatsapp.com/send?phone=79115759336&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0%20%22%D0%9E%D0%B1%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B9%2F%D0%B1%D0%B5%D0%B7%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%22">Обжалование действий/бездействия сотрудников правоохранительных органов</a></li>
 										</ul>
 									</li>
 									<li>
@@ -112,24 +114,20 @@
 		<div class="header-content-area">
 			<div class="container">
 				<!--header pattern-->
-				<div class="header-pattern-1">
-					<img src="img/header-pattern-1.png" alt="">
-				</div>
-				<div class="header-pattern-2">
-					<img src="img/header-pattern2.png" alt="">
-				</div>
+
 				<div class="header-animation-area">
 					<div class="row">
 						<div class="col-xl-12 col-lg-12 col-md-12">
 							<!--header text-->
 							<div class="intro-text">
-								<h1 data-aos="slide-right" data-aos-anchor-placement="top-bottom" data-aos-delay="700" data-aos-duration="1200"> <br> <br> Я заинтересована в вашем <br> успехе! <br> </h1>
-								<p data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200"> Адвокат должен страртья работать на результат, <br>
-									а не на колличество оплачеваемых часов! <br> Уметь правильно строить отношения, не только со своим клинетом,<br> но и с другими людьми, которые имеют отношения к <br>судебному процессу - со следователем, прокурором и т.д.</p>
+								<h1 data-aos="slide-right" data-aos-anchor-placement="top-bottom" data-aos-delay="700" data-aos-duration="1200">
+									 <br> <br> Помощь по угловным делам <br> в Санкт-Петербурге. <br>
+					<br> Один звонок и Вы убедитесь в моём профессионализме.  </h1>
+								<p data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
 
 									<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
-										<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
-								<div class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
+										<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить 24/7</a>
+								<div id="contact"class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
 										<input  type="checkbox" id="callback">
                      <label class="skill-btn" for="callback"> Заказать Консультацию </label>
 
@@ -137,7 +135,7 @@
                          <span align="center">Введите ваши данные</span>
                          <input type="text" placeholder="Ваше Имя" name="user_name" required>
                          <input type="text" placeholder="8 999 999 99 99" name="user_phone" required>
-                         <input class="submit" type="submit">
+                         <input class="submit" type="submit" value="Отправить">
                         <label class="close" for="callback">+</label>
                       </form>
 									</div>
@@ -185,13 +183,16 @@
 					<!--about text-->
 					<div id="me" class="col-xl-7 col-lg-7 col-md-7">
 						<div class="section-heading-1 home-about-text">
-							<h4>О Себе</h4>
-							<h3>АДВОКАТ, КАНДИДАТ ЮРИДИЧЕСКИХ НАУК</h3>
-							<p>Я защищаю интересы физических и юридических лиц в судах Российской Федерации уже более 12-ти лет. Весь мой путь становления, как специалиста, связан с судебной системой. Высшее образование мною было получено в Российской академии правосудия. </p>
+							<h4><b>О Себе</h4>
+							<h3>АДВОКАТ - 8 Лет успешной практики</h3>
+							<p><b>
+Я представляю интересы подозреваемых, потерпевших на стадии дознания, предварительного следствия и судебного разбирательства, в правоохранительных органах, следственном комитете, прокуратуре и других органах исполнительной власти РФ. Консультирую по вопросам, возникающим в ходе расследования уголовного дела. Защищаю интересы доверителя в процессе проведения допросов, следственных экспериментов, очных ставок и других действий. Посещаю обвиняемого в изоляторе. Составляю необходимые документов (жалобы, заявления, ходатайства) и собираю доказательства. Оказываю помощь в поиске свидетелей. Осуществляю связь между заключенным и его родными в том случае, если подзащитный уже взят под стражу.
+Я помогаю в самых сложных жизненных ситуациях — задержание, арест, нахождение в СИЗо. Мне доверяют родители, чьи дети совершили правонарушение и нуждаются в помощи адвоката. Во время расследования  я в постоянном контакте с родственниками и близкими людьми подсудимого. Работа адвоката — это и психологическая поддержка человека, совершившего преступление и его семьи. Защита невиновных, борьба со сфабрикованными делами и реабилитация также входят в сферу моей деятельности.
+Я обладаю опытом и успешной практикой в защите людей по следующим категориям уголовных дел: незаконный оборот наркотических средств (хранение и сбыт наркотиков, контрабанда, склонение к потреблению, культивирование), в экономике (мошенничество, кража, злоупотребление полномочиями, угон), взятка, хулиганство, бандитизм, против личности и половой неприкосновенности (изнасилования, убийства, вред здоровью, побои, истязание, клевета), проникновение в жилище, вовлечение несовершеннолетнего.
+Опыт работы в суде с участием присяжных заседателей (отбор, вступительное слово, допрос свидетелей и прения сторон).
+А также апелляционное обжалования, ходатайство об условно-досрочном освобождении и посещение осужденных в колонии. </p>
 
-							<div class="e-pattern">
-								<img src="img/expertise/e-pattern.png" alt="">
-							</div>
+
 						</div>
 					</div>
 				</div>
@@ -206,7 +207,7 @@
 					<div class="col-xl-12">
 						<div class="section-heading-3 section-heading-1">
 							<h4>Мои Цены</h4>
-							<h3>Тарифный план на выбор</h3>
+							<h3>Комплесные услуги</h3>
 						</div>
 					</div>
 				</div>
@@ -214,81 +215,72 @@
 					<!-- single price-->
 					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-bot-sb-30">
 						<div class="single-price">
-							<div class="price-pattern">
-								<img src="img/p-pattern.png" alt="">
-							</div>
+
 							<div class="package">
-								<h3>Базовый</h3>
+								<h3>Защита на следствии </h3>
 							</div>
 							<div class="price-qoute">
-								<p>Lorem ipsum dolor sit amet.</p>
-								<h2>29$ <span>/ month</span></h2>
+								<p></p>
+								<h2>от 45.000 руб <span></span></h2>
 							</div>
 							<div class="price-details">
 								<ul>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Stock images videos.</li>
+									<li><i class="far fa-check-circle"></i> Посещение СИЗо</li>
+									<li><i class="far fa-check-circle"></i> Согласование правовой позиции</li>
+									<li><i class="far fa-check-circle"></i> Участие в следственных действиях</li>
+									<li><i class="far fa-check-circle"></i> Составление ходатайств и жалоб </li>
 								</ul>
 							</div>
 							<div class="price-button">
-								<a href="#"><b>Заказать</b></a>
+								<a href=" https://wa.me/79115759336?text=Здравствуйте!%20Меня%20интересует%20защита%20на%20следствии" target="_blank" rel="nofollow"><b>Подробнее</b></a>
 							</div>
 						</div>
 					</div>
 					<!-- single price-->
 					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6">
 						<div class="single-price active-s">
-							<div class="price-pattern">
-								<img src="img/p-pattern.png" alt="">
-							</div>
+
 							<div class="package active-h">
-								<h3>Стандартный</h3>
+								<h3>Защита в суде </h3>
 							</div>
 							<div class="price-qoute">
-								<p>Lorem ipsum dolor sit amet.</p>
-								<h2>59$ <span>/ month</span></h2>
+								<p></p>
+								<h2>от 40.000 руб<span></span></h2>
 							</div>
 							<div class="price-details">
 								<ul>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Stock images videos.</li>
+									<li><i class="far fa-check-circle"></i> Выработка линии защиты </li>
+									<li><i class="far fa-check-circle"></i> Согласование показаний </li>
+									<li><i class="far fa-check-circle"></i> Подготовка свидетелей </li>
+									<li><i class="far fa-check-circle"></i> Речь для прений и последнего слова </li>
 								</ul>
 							</div>
 							<div class="price-button active-b">
-								<a href="#"><b>Заказать</b></a>
+								<a href=" https://wa.me/79115759336?text=Здравствуйте!%20Меня%20интересует%20защита%20в%20суде" target="_blank" rel="nofollow"><b>Подробнее</b></a>
 							</div>
 						</div>
 					</div>
 					<!-- single price-->
 					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-top-sb-30 margin-top-lb-30">
 						<div class="single-price">
-							<div class="price-pattern">
-								<img src="img/p-pattern.png" alt="">
-							</div>
+
 							<div class="package">
-								<h3>Полный</h3>
+								<h3>УДО</h3>
 							</div>
 							<div class="price-qoute">
-								<p>Lorem ipsum dolor sit amet.</p>
-								<h2>99$ <span>/ month</span></h2>
+								<p></p>
+								<h2>от 30.000 руб <span></span></h2>
 							</div>
 							<div class="price-details">
 								<ul>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Lorem ipsum dolor sit.</li>
-									<li><i class="far fa-check-circle"></i> Stock images videos.</li>
+									<li><i class="far fa-check-circle"></i> Составление ходатайства об УДО </li>
+									<li><i class="far fa-check-circle"></i> Посещение учереждений </li>
+									<li><i class="far fa-check-circle"></i> Защита в судебном заседании </li>
+									<li><i class="far fa-check-circle"></i> Помощь в сборе документов</li>
 								</ul>
 							</div>
 							<div class="price-button">
-								<a href="#"><b>Заказать</b></a>
+								<a href=" https://wa.me/79115759336?text=Здравствуйте!%20Меня%20интересует%20условно-досрочное%20освобождение" target="_blank" rel="nofollow"><b>Подробнее</b></a>
 							</div>
 						</div>
 					</div>
@@ -317,7 +309,7 @@
 							</div>
 							<div class="e-pattern">
 								<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A1ff1216feab21f0b52c77dac0de1b71904cdd19da06027e85fdc2cbb1858d3d5&amp;source=constructor" width="1280" height="450" frameborder="0" center ></iframe>
-								<img src="img/expertise/e-pattern.png" alt="">
+
 
 							</div>
 						</div>
@@ -336,25 +328,25 @@
 						<div class="row counter-area-small">
 							<!-- single-coutdown-->
 							<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 single-count-item-mb">
-								<div class="single-count-area"><img src="img/counter/manager.png" alt=""> <br> <span class="counter">40</span><span>+</span>
+								<div class="single-count-area"><img src="img/counter/1.png" alt=""> <br> <span class="counter">40</span><span>+</span>
 									<p>Выйгранных дел</p>
 								</div>
 							</div>
 							<!-- single-coutdown-->
 							<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 single-count-item-mb">
-								<div class="single-count-area"><img src="img/counter/chart.png" alt=""><br><span class="counter">150</span><span>+</span>
+								<div class="single-count-area"><img src="img/counter/2.png" alt=""><br><span class="counter">150</span><span>+</span>
 									<p>Довольных клиентов</p>
 								</div>
 							</div>
 							<!-- single-coutdown-->
 							<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-								<div class="single-count-area"> <img src="img/counter/coin.png" alt=""> <br> <span class="counter">12</span><span>+</span>
+								<div class="single-count-area"> <img src="img/counter/3.png" alt=""> <br> <span class="counter">12</span><span>+</span>
 									<p>Лет успешной работы</p>
 								</div>
 							</div>
 							<!-- single-coutdown-->
 							<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-top-sb-30">
-								<div class="single-count-area"> <img src="img/counter/theme.png" alt=""> <br> <span class="counter">50</span><span>+</span>
+								<div class="single-count-area"> <img src="img/counter/4.png" alt=""> <br> <span class="counter">50</span><span>+</span>
 									<p>Положительных отзывов</p>
 								</div>
 							</div>
@@ -368,11 +360,9 @@
 							<p>Адвокат должен страртья работать на результат,
 								а не на колличество оплачеваемых часов! Уметь правильно строить отношения, не только со своим клинетом, но и с другими людьми, которые имеют отношенияк судебному процессу - со следователем, прокурором и т.д.</p>
 							<div class="section-button">
-								<a href="#">Стать моим клиентом</a>
+								<a href="#contact">Стать моим клиентом</a>
 							</div>
-							<div class="e-pattern">
-								<img src="img/expertise/e-pattern.png" alt="">
-							</div>
+
 						</div>
 					</div>
 				</div>
@@ -461,31 +451,35 @@
 		</div>
 	</section>
 
-	<div class="callto-action">
+	<div class="callto-action" class="section-heading-3 section-heading-1">
 		<div class="container">
 			<div class="col-xl-12 col-lg-12 col-md-12">
 				<!--header text-->
 				<div class="intro-text">
 					<h1>  Я заинтересована в вашем успехе! </h1>
+
+            </div>
 						<div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
 							<a class="skill-btn" href="tel:+79115759336" class="phone">Позвонить</a>
-					<div class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
-							<input  type="checkbox" id="callback">
-							 <label class="skill-btn" for="callback"> Заказать Консультацию </label>
-
-								 <form action="telegram.php" class="popup" method="POST">
-									 <span align="center">Введите ваши данные</span>
-									 <input type="text" placeholder="Ваше Имя" name="user_name" required>
-									 <input type="text" placeholder="8 999 999 99 99" name="user_phone" required>
-									 <input class="submit" type="submit">
-									<label class="close" for="callback">+</label>
-								</form>
 						</div>
+
+
+						<div class="learnmore" class="skill-btn" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
+
+
+									 <form action="telegram.php"  method="POST">
+										 <span align="center"><h1>Заказать консультацию</h1></span>
+										 <input type="text" placeholder="Ваше Имя" name="user_name" required>
+										 <input type="text" placeholder="8 999 999 99 99" name="user_phone" required>
+										 <input class="submit" type="submit" value="Отправить">
+
+									</form>
+							</div>
 						<!--<div class="learnmore2">
 							<a href="#" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
 						</div>-->
-					</div>
-				</div>
+
+
 			</div>
 		</div>
 	</div>
@@ -500,27 +494,18 @@
 							<a href="#">
 								<img src="img/footer-logo.png" alt="">
 							</a>
-							<p> We have bothh premium and free website templates. Build your professional website with us.</p>
+
 						</div>
 						<!--footer social-->
-						<div class="social">
-							<ul>
-								<li><a class="footer-socials" href="#"><i class="fab fa-facebook"></i></a></li>
-								<li><a class="footer-socials" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li><a class="footer-socials" href="#"><i class="fab fa-twitter"></i></a></li>
-								<li><a class="footer-socials" href="#"><i class="fab fa-youtube"></i></a></li>
-							</ul>
-						</div>
+
 					</div>
 					<!--footer quick links-->
 					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
 						<div class="footer-heading">
-							<h3>quick links</h3>
-						</div>
-						<div class="footer-content">
+
 							<ul>
 								<li><a href="">О себе</a></li>
-								<li><a href="">Контакты</a></li>
+								<li><a href="#contact">Контакты</a></li>
 								<li><a href="">Блог</a></li>
 								<li><a href="">Форум</a></li>
 								<li><a href="{{ route('login') }}">Вход</a></li>
@@ -528,26 +513,9 @@
 						</div>
 					</div>
 					<!--footer latest work-->
-					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-						<div class="footer-heading">
-							<h3>Latest works</h3>
-						</div>
-						<div class="footer-content">
-							<ul>
-								<li><a href="">sparkel</a></li>
-								<li><a href="">getparts</a></li>
-								<li><a href="">youtuber</a></li>
-								<li><a href="">smartco</a></li>
-								<li><a href="">petcare</a></li>
-							</ul>
-						</div>
-					</div>
+
 					<!--footer subscribe-->
-					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-						<div class="footer-heading">
-							<h3>Get Updates</h3>
-						</div>
-						</div>
+
 					</div>
 				</div>
 			</div>
